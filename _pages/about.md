@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lester Phillip Violeta"
+title: "Voice research and all that kind of stuff."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-Hi, I'm Lester Violeta[^1], a master's student at Nagoya University, Japan at Toda Laboratory under Professor Tomoki Toda. My research focus is mainly on automatic speech recognition and voice conversion using different deep learning frameworks. I received the Monbukagakusho Japanese Government Scholarship, a full scholarship that covers my expenses while studying in Japan. I am also scheduled to take the PhD course next April as a Fellow of the Nagoya University Interdisciplinary Frontier Fellowship. I work on AI with the goal of making it more inclusive to everyone.
+Hi, I'm Lester Violeta, a master's student at Nagoya University, Japan at Toda Laboratory under the supervision of Professor Tomoki Toda. My research focus is mainly on automatic speech recognition and voice conversion using different deep learning frameworks. I received the Monbukagakusho Japanese Government Scholarship, a full scholarship that covers my expenses while studying in Japan. I am also scheduled to take the PhD course next April as a Fellow of the Nagoya University Interdisciplinary Frontier Fellowship. I work on AI with the goal of making it more inclusive to everyone.
 
 Prior to this, I received my undergraduate degree from Ateneo de Manila University, Philippines. I also have several working experiences in software engineering and machine learning. Moreoever, I was also a research exchange student at Institut Catholique d'Arts et Metiers - Site de Paris-Senart in France where I worked on optimizing renewable energy systems for a semester during my undergraduate degree.
 
@@ -25,5 +25,3 @@ Updates
 - Jan 2022: Co-authored [paper](https://arxiv.org/abs/2110.08213) accepted at ICASSP 2022.
 - Jan 2022: Accepted as a research intern at Hitachi Ltd.
 - Apr 2021: Started my master's degree at Nagoya University!
-
-[^1] In the Philippines, people usually have more than one first name, but I usually stick with just Lester.
