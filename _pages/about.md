@@ -20,8 +20,8 @@ You can download my CV [here](https://lesterphillip.github.io/files/CV.pdf).
 Updates
 ======
 - Sep 2022: Co-authored [paper](https://arxiv.org/abs/2210.10314) accepted at SLT 2022.
-- May 2022: First-author paper accepted at INTERSPEECH 2022.
+- May 2022: First-author [paper](https://arxiv.org/abs/2203.15431) accepted at INTERSPEECH 2022.
 - Mar 2022: Accepted as a research intern at NTT Japan.
 - Jan 2022: Co-authored [paper](https://arxiv.org/abs/2110.08213) accepted at ICASSP 2022.
 - Jan 2022: Accepted as a research intern at Hitachi Ltd.
-- Apr 2021: Started my master's degree at Nagoya University!
+- Apr 2021: Started my master's degree at Nagoya University.
