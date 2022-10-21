@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Voice research and all that kind of stuff."
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
+
 ======
 Hi, I'm Lester Violeta, a master's student at Nagoya University, Japan at Toda Laboratory under the supervision of Professor Tomoki Toda. My research focus is mainly on automatic speech recognition and voice conversion using different deep learning frameworks. I received the Monbukagakusho Japanese Government Scholarship, a full scholarship that covers my expenses while studying in Japan. I am also scheduled to take the PhD course next April as a Fellow of the Nagoya University Interdisciplinary Frontier Fellowship. I work on AI with the goal of making it more inclusive to everyone.
 
@@ -19,7 +19,7 @@ You can download my CV [here](https://lesterphillip.github.io/files/CV.pdf).
 
 Updates
 ======
-- Sep 2022: Co-authored [paper] accepted at SLT 2022.
+- Sep 2022: Co-authored [paper](https://arxiv.org/abs/2210.10314) accepted at SLT 2022.
 - May 2022: First-author paper accepted at INTERSPEECH 2022.
 - Mar 2022: Accepted as a research intern at NTT Japan.
 - Jan 2022: Co-authored [paper](https://arxiv.org/abs/2110.08213) accepted at ICASSP 2022.
