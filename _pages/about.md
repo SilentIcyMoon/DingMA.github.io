@@ -18,7 +18,7 @@ You can download my CV [here](https://lesterphillip.github.io/files/CV.pdf).
 
 Updates
 ======
-- Jan 2022: I will be co-organizing the Singing Voice Conversion Challenge! More details can be found [here](http://vc-challenge.org/). Please join! 
+- Jan 2023: I will be co-organizing the Singing Voice Conversion Challenge! More details can be found [here](http://vc-challenge.org/). Please join! 
 - Sep 2022: Co-authored [paper](https://arxiv.org/abs/2210.10314) accepted at SLT 2022.
 - May 2022: First-author [paper](https://arxiv.org/abs/2203.15431) accepted at INTERSPEECH 2022.
 - Mar 2022: Accepted as a research intern at NTT Japan.
